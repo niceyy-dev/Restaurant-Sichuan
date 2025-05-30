@@ -11,7 +11,7 @@ import Link from "next/link";
 const navigation = [
   { name: "MENU", href: "/menu", current: false },
   { name: "CONTACT", href: "/contact", current: false },
-  { name: "NOTRE HISTORE", href: "/history", current: false },
+  // { name: "NOTRE HISTORE", href: "/history", current: false },
 ];
 
 function classNames(...classes: string[]) {

@@ -37,7 +37,7 @@ export default function Home() {
 
         <button className="animate-fade-in-up pt-20">
           <a
-            href="#"
+            href="/menu"
             className="px-20 py-6 bg-[#990001] text-white text-lg rounded-full hover:bg-[#990001] transition duration-300 ease-in-out roboto-regular"
           >
             MENU

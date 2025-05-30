@@ -92,7 +92,7 @@ export default function Menu() {
             key={i}
             src={img}
             alt={`Plat ${i + 1}`}
-            className="rounded-xl shadow-md object-cover w-5/6 h-full"
+            className="rounded-xl shadow-md object-cover w-4/6 h-full"
           />
         ))}
       </div>
