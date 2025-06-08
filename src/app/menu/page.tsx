@@ -26,7 +26,7 @@ const tabs: Tab[] = [
   },
   {
     name: "PLATS TRADITIONNELS 炒菜 👨🏻‍🍳",
-    images: ["/imgs/plat-tradi1.png", "/imgs/plat-tradi2.png"],
+    images: ["/imgs/tradi1.png", "/imgs/tradi2.png"],
   },
   {
     name: "LEGUMES 蔬菜 🥬",
